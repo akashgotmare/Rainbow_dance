@@ -1,0 +1,4 @@
+Move one step left
+Move one step right
+jump up and down
+do the rainbow dance
